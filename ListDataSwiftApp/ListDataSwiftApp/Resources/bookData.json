@@ -1,0 +1,32 @@
+[
+    {
+        "name": "基礎から学ぶFlutter",
+        "author": "石井幸次",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "status": "読書中",
+        "description": "シーアンドアール研究所",
+        "imageName": "kisokaraflutter"
+    },
+    {
+        "name": "詳解Swift第5版",
+        "author": "荻原剛志",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "status": "積読中",
+        "description": "SBクリエイティブ",
+        "imageName": "shoukaiswift5"
+    },
+    {
+        "name": "SwiftUI徹底入門",
+        "author": "金田浩明",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "status": "積読中",
+        "description": "SBクリエイティブ",
+        "imageName": "swiftuitettei"
+    },
+]
